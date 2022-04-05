@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    scroll-behavior: smooth;
+    font-family: poppins;
+}
+
+.navbar {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+#map {
+    margin-top: 20px;
+    width: 100vw;
+    height: 400px;
+}
+
+#search {
+    height: 10vh;
+    width: 100%;
+}
+
+#search #search-content {
+    padding-top: 30px;
+}
+
+
+.btn {
+    border-radius: 20px;
+    font-weight: 500;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    transition: 300ms ease-in-out;
+}
+
+.btn:hover {
+    box-shadow: none;
+}
+
+#main {
+    padding-top: 20px;
+
+}
