@@ -39,6 +39,10 @@ More result options can be added, here is the full list of options
     "org": ""
 }
 
+or 
+
+https://ipapi.co/json/
+
 
 
 
